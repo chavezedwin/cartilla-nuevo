@@ -2,10 +2,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(https://i.postimg.cc/brSKyMR4/react-01-01.png);
+  background-image: url(../fondo\ azul.jpg) ;
   background-size: cover;
   background-position: center;
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   min-height: 100vh;
@@ -21,7 +21,7 @@
 }
 
 .main {
-  background-color: hsla(222, 14%, 15%, 0.75);
+  background-color: hsla(345, 21%, 93%, 0.75);
   display: flex;
   flex-direction: column;
   gap: 1rem;
